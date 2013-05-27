@@ -1,0 +1,8 @@
+development.ini
+bin/
+include/
+lib/
+projectFilesBackup/
+.Python
+.idea/
+*.egg-info
