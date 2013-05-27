@@ -1,1 +1,15 @@
-This file was created by PyCharm 2.7.2 for binding GitHub repository
+#AlbumApp
+
+アルバムジャケットを表示する簡単なWebアプリ
+
+## 仕様ライブラリ
+* Pyramid
+* pyramid_mongodb
+* pymongo
+* [Flat UI](http://designmodo.github.io/Flat-UI/)
+* jQuery
+* [jQuery Masonry](http://masonry.desandro.com/index.html)
+
+
+## 今後やっておきたいこと
+* Web API化
